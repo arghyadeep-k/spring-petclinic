@@ -1,0 +1,5 @@
+{
+    "junitTests":true,
+    "sonarQubeScan":false,
+    "artifactUpload":true
+}
